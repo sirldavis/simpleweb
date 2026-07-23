@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Daily Digest",
+  title: "New Report",
   description: "A simple news page built with Next.js",
 };
 
