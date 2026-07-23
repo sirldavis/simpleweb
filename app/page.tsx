@@ -33,7 +33,7 @@ export default function Home() {
       <header className="border-b border-black/[.08] bg-white dark:border-white/[.145] dark:bg-[#111]">
         <div className="mx-auto max-w-4xl px-6 py-6">
           <h1 className="text-2xl font-bold tracking-tight text-zinc-950 dark:text-zinc-50">
-            Daily Digest
+            New Report
           </h1>
           <p className="mt-1 text-sm text-zinc-600 dark:text-zinc-400">
             The latest stories, updated throughout the day.
